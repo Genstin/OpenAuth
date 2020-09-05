@@ -3,6 +3,8 @@ The Caviel Open Authorization library provides easy implication for projects to 
 
 > Caviel Open Authentication Library may sometimes be referred to as `COA`/`COAL`, `oAUTH` or `Open Auth` in diffrent places.
 
+[![](https://data.jsdelivr.com/v1/package/gh/CavielApps/OpenAuth/badge)](https://www.jsdelivr.com/package/gh/CavielApps/OpenAuth)
+
 ## What Makes It Diffrent
 In the COA library, we automaticly format external service data to a standardized JSON format for easy parsing even if they use an unorthadoxed method other than email and password.
 

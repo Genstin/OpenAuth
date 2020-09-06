@@ -1,5 +1,6 @@
 # Caviel Open Authorization Library
 [![](https://data.jsdelivr.com/v1/package/gh/CavielApps/OpenAuth/badge)](https://www.jsdelivr.com/package/gh/CavielApps/OpenAuth)
+_________________
 
 ## Introduction
 The Caviel Open Authorization library provides easy implication for projects to support logins from sources like Caviel, Google, Twitter, Facebook and more added every day.

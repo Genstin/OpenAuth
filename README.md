@@ -14,9 +14,6 @@ In the COA library, we automaticly format external service data to a standardize
 * [Twitter](https://twitter.com)
 * [Facebook](https://facebook.com)
 * [Apple](https://apple.com) - Coming Soon
-* [Yahoo](https://yahoo.com) - Coming Soon
-* [GitHub](https://github.com) - Coming Soon
-* [LinkedIn](https://linkedin.com) - Coming Soon
 * [Microsoft](https://microsoft.com) - Coming Soon
 
 ## Installation

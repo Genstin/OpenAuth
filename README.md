@@ -1,7 +1,10 @@
-<p align="center"><img src="https://i.imgur.com/Iyk77YF.png" title="Caviel COAL logo"></p>
+<p align="center"><img src="https://i.imgur.com/Iyk77YF.png" title="Caviel COAL Logo"></p>
 <p align="center">The Official Caviel Open Authentication Library</p>
 
-[![COAL Badge: JSDelivr Statistics](https://data.jsdelivr.com/v1/package/gh/CavielApps/OpenAuth/badge)](https://www.jsdelivr.com/package/gh/CavielApps/OpenAuth)
+<p align="center">
+<img src="https://badge.fury.io/gh/cavielapps%2FOpenAuth.svg">
+<img src="https://travis-ci.com/CavielApps/OpenAuth.svg?branch=master">
+</p>
 
 ## Introduction
 The Caviel Open Authorization library provides easy implication for projects to support logins from sources like Caviel, Google, Twitter, Facebook and more added every day.

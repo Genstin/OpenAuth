@@ -1,10 +1,13 @@
-<p align="center"><img src="https://i.imgur.com/FsA0f6I.png" title="Caviel Open Authentication Logo"></p>
+<br>
+<br>
+<p align="center"><img src="https://i.imgur.com/NF9zlsU.png" title="Caviel Open Authentication Logo"></p>
+<br>
 <p align="center">The Caviel Open Authentication Library</p>
-
 <p align="center">
 <img src="https://badge.fury.io/gh/caviel%2FOpenAuth.svg">
 <img src="https://travis-ci.com/caviel/OpenAuth.svg?branch=master">
 </p>
+<br>
 
 ## Introduction
 The Caviel Open Authorization library provides easy implication for projects to support logins from sources like Caviel, Google, Twitter, Facebook and more added every day.

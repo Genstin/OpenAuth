@@ -1,9 +1,9 @@
-<p align="center"><img src="https://i.imgur.com/Iyk77YF.png" title="Caviel COAL Logo"></p>
-<p align="center">The Official Caviel Open Authentication Library</p>
+<p align="center"><img src="https://i.imgur.com/FsA0f6I.png" title="Caviel Open Authentication Logo"></p>
+<p align="center">The Caviel Open Authentication Library</p>
 
 <p align="center">
-<img src="https://badge.fury.io/gh/cavielapps%2FOpenAuth.svg">
-<img src="https://travis-ci.com/CavielApps/OpenAuth.svg?branch=master">
+<img src="https://badge.fury.io/gh/caviel%2FOpenAuth.svg">
+<img src="https://travis-ci.com/caviel/OpenAuth.svg?branch=master">
 </p>
 
 ## Introduction
